@@ -1,0 +1,4611 @@
+html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"
+
+
+
+Device List
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Skip to Main Content
+
+
+Device
+Broadband
+
+Home Network
+
+Voice
+Firewall
+Diagnostics
+
+
+
+
+
+Status
+Device List
+System Information
+Access Code
+Remote Access
+Restart Device
+
+
+
+
+
+
+
+
+Device List
+
+
+
+
+Home Network Devices  
+
+
+MAC Address
+00:1c:c2:52:09:9e
+
+IPv4 Address / Name
+192.168.1.159
+ / DNC-WHITE374
+
+Last Activity
+Fri Apr  1 17:37:46 2022
+
+Status
+on
+
+Allocation
+dhcp
+
+Connection Type
+Ethernet LAN-1
+
+Mesh Client
+No
+
+IPv6 Address
+2600:1700:ab00:5810:b8b9:5f55:5cdb:d629
+
+Type
+slaac
+
+Valid Lifetime
+3600s
+
+Preferred Lifetime
+3600s
+
+IPv6 Address
+2600:1700:ab00:5810:d48f:8901:a068:b2e9
+
+Type
+slaac
+
+Valid Lifetime
+3600s
+
+Preferred Lifetime
+3600s
+
+IPv6 Address
+2600:1700:ab00:5810::20
+
+Type
+dhcp
+
+Valid Lifetime
+3600s
+
+Preferred Lifetime
+3600s
+
+IPv6 Address
+2600:1700:ab00:5810:5931:c7ea:5be2:ce90
+
+Type
+slaac
+
+Valid Lifetime
+3600s
+
+Preferred Lifetime
+3600s
+
+IPv6 Address
+2600:1700:ab00:5810:1cfc:d7a2:842b:31eb
+
+Type
+slaac
+
+Valid Lifetime
+3600s
+
+Preferred Lifetime
+3600s
+
+IPv6 Address
+fe80::1cad:9748:3f34:d757
+
+Type
+slaac
+
+Valid Lifetime
+forever
+
+Preferred Lifetime
+forever
+
+
+MAC Address
+38:f9:d3:c8:bb:fb
+
+IPv4 Address / Name
+192.168.1.160
+ / DNC-WHITE374
+
+Last Activity
+Fri Apr  1 17:36:56 2022
+
+Status
+on
+
+Allocation
+dhcp
+
+Connection Type
+Wi-Fi   5 GHzType: HomeName: BadConnection
+
+Mesh Client
+No
+
+IPv6 Address
+2600:1700:ab00:5810::23
+
+Type
+dhcp
+
+Valid Lifetime
+3600s
+
+Preferred Lifetime
+3600s
+
+IPv6 Address
+2600:1700:ab00:5810:1c82:6df1:218d:c650
+
+Type
+slaac
+
+Valid Lifetime
+3600s
+
+Preferred Lifetime
+3600s
+
+IPv6 Address
+2600:1700:ab00:5810:386b:9530:26c8:fbc2
+
+Type
+slaac
+
+Valid Lifetime
+3600s
+
+Preferred Lifetime
+3600s
+
+IPv6 Address
+fe80::96:4162:b383:7b6f
+
+Type
+slaac
+
+Valid Lifetime
+forever
+
+Preferred Lifetime
+forever
+
+
+MAC Address
+48:a6:b8:f7:8d:7c
+
+IPv4 Address / Name
+192.168.1.178
+ / SonosZP
+
+Last Activity
+Fri Apr  1 17:36:56 2022
+
+Status
+on
+
+Allocation
+dhcp
+
+Connection Type
+Wi-Fi   2.4 GHzType: HomeName: BadConnection
+
+Mesh Client
+No
+
+IPv6 Address
+2600:1700:ab00:5810:4aa6:b8ff:fef7:8d7c
+
+Type
+slaac
+
+Valid Lifetime
+3600s
+
+Preferred Lifetime
+3600s
+
+IPv6 Address
+fe80::4aa6:b8ff:fef7:8d7c
+
+Type
+slaac
+
+Valid Lifetime
+forever
+
+Preferred Lifetime
+forever
+
+
+MAC Address
+48:a6:b8:f7:8d:a0
+
+IPv4 Address / Name
+192.168.1.228
+ / SonosZP
+
+Last Activity
+Fri Apr  1 17:37:46 2022
+
+Status
+on
+
+Allocation
+dhcp
+
+Connection Type
+Wi-Fi   5 GHzType: HomeName: BadConnection
+
+Mesh Client
+No
+
+IPv6 Address
+2600:1700:ab00:5810:4aa6:b8ff:fef7:8da0
+
+Type
+slaac
+
+Valid Lifetime
+3600s
+
+Preferred Lifetime
+3600s
+
+IPv6 Address
+fe80::4aa6:b8ff:fef7:8da0
+
+Type
+slaac
+
+Valid Lifetime
+forever
+
+Preferred Lifetime
+forever
+
+
+MAC Address
+52:ff:da:b4:fa:11
+
+Name
+unknown52ffdab4fa11
+
+Last Activity
+Thu Mar 31 18:47:01 2022
+
+Status
+off
+
+Allocation
+dhcp
+
+Connection Type
+Wi-Fi5 GHzType: HomeName: BadConnection
+aaaaaa  aAWaaaaaaaaaaaaa
+Mesh Client
+No
+
+
+MAC Address
+54:2a:1b:8a:87:0b
+
+IPv4 Address / Name
+192.168.1.170
+ / SonosZP
+
+Last Activity
+Fri Apr  1 17:36:56 2022
+
+Status
+on
+
+Allocation
+dhcp
+
+Connection Type
+Wi-Fi   2.4 GHzType: HomeName: BadConnection
+
+Mesh Client
+No
+
+IPv6 Address
+2600:1700:ab00:5810:562a:1bff:fe8a:870b
+
+Type
+slaac
+
+Valid Lifetime
+3600s
+
+Preferred Lifetime
+3600s
+
+IPv6 Address
+fe80::562a:1bff:fe8a:870b
+
+Type
+slaac
+
+Valid Lifetime
+forever
+
+Preferred Lifetime
+forever
+
+
+MAC Address
+6e:b5:c3:64:d6:ea
+
+IPv4 Address / Name
+192.168.1.175
+ / unknown6eb5c364d6ea
+
+Last Activity
+Fri Apr  1 17:36:12 2022
+
+Status
+on
+
+Allocation
+dhcp
+
+Connection Type
+Wi-Fi   5 GHzType: HomeName: BadConnection
+
+Mesh Client
+No
+
+IPv6 Address
+2600:1700:ab00:5810:9479:6fef:9814:3349
+
+Type
+slaac
+
+Valid Lifetime
+3600s
+
+Preferred Lifetime
+3600s
+
+IPv6 Address
+fe80::c88:1b6d:6a69:8499
+
+Type
+slaac
+
+Valid Lifetime
+forever
+
+Preferred Lifetime
+forever
+
+
+MAC Address
+78:dd:12:f2:79:50
+
+IPv4 Address / Name
+192.168.1.213
+ / unknown78dd12f27950
+
+Last Activity
+Fri Apr  1 07:56:19 2022
+
+Status
+on
+
+Allocation
+static
+
+Connection Type
+Wi-Fi   5 GHzType: HomeName: BadConnection
+
+Mesh Client
+No
+
+
+MAC Address
+92:00:2f:f8:44:b6
+
+IPv4 Address / Name
+192.168.1.169
+ / unknown92002ff844b6
+
+Last Activity
+Fri Apr  1 17:28:14 2022
+
+Status
+on
+
+Allocation
+dhcp
+
+Connection Type
+Wi-Fi   2.4 GHzType: HomeName: BadConnection
+
+Mesh Client
+No
+
+
+MAC Address
+96:c2:24:fb:2e:b4
+
+IPv4 Address / Name
+192.168.1.179
+ / unknown96c224fb2eb4
+
+Last Activity
+Fri Apr  1 17:37:29 2022
+
+Status
+on
+
+Allocation
+dhcp
+
+Connection Type
+Wi-Fi   5 GHzType: HomeName: BadConnection
+
+Mesh Client
+No
+
+IPv6 Address
+2600:1700:ab00:5810:1a:a823:1163:38a3
+
+Type
+slaac
+
+Valid Lifetime
+3600s
+
+Preferred Lifetime
+3600s
+
+IPv6 Address
+2600:1700:ab00:5810::29
+
+Type
+dhcp
+
+Valid Lifetime
+3600s
+
+Preferred Lifetime
+3600s
+
+IPv6 Address
+2600:1700:ab00:5810:a89d:6b57:d5cf:7c4e
+
+Type
+slaac
+
+Valid Lifetime
+3600s
+
+Preferred Lifetime
+3600s
+
+IPv6 Address
+fe80::14a0:b60d:85b8:ae07
+
+Type
+slaac
+
+Valid Lifetime
+forever
+
+Preferred Lifetime
+forever
+
+
+MAC Address
+9c:b6:d0:f3:74:f3
+
+IPv4 Address / Name
+192.168.1.127
+ / devserver
+
+Last Activity
+Fri Apr  1 17:37:26 2022
+
+Status
+on
+
+Allocation
+dhcp
+
+Connection Type
+Wi-Fi   5 GHzType: HomeName: BadConnection
+
+Mesh Client
+No
+
+IPv6 Address
+2600:1700:ab00:5810:ee49:1084:8a57:cb15
+
+Type
+slaac
+
+Valid Lifetime
+3600s
+
+Preferred Lifetime
+3600s
+
+IPv6 Address
+2600:1700:ab00:5810::22
+
+Type
+dhcp
+
+Valid Lifetime
+3600s
+
+Preferred Lifetime
+3600s
+
+IPv6 Address
+2600:1700:ab00:5810:4102:532d:ea10:da9c
+
+Type
+slaac
+
+Valid Lifetime
+3600s
+
+Preferred Lifetime
+3600s
+
+IPv6 Address
+fe80::63f7:581b:6e09:1f5a
+
+Type
+slaac
+
+Valid Lifetime
+forever
+
+Preferred Lifetime
+forever
+
+
+MAC Address
+c4:95:00:0b:d3:5d
+
+IPv4 Address / Name
+192.168.1.104
+ / amazon-c7ca48c11
+
+Last Activity
+Fri Apr  1 11:42:32 2022
+
+Status
+off
+
+Allocation
+dhcp
+
+Connection Type
+Wi-Fi2.4 GHzType: HomeName: BadConnection
+
+Mesh Client
+No
+
+
+MAC Address
+dc:41:a9:a9:a2:e5
+
+IPv4 Address / Name
+192.168.1.144
+ / devloper
+
+Last Activity
+Fri Apr  1 17:37:02 2022
+
+Status
+on
+
+Allocation
+dhcp
+
+Connection Type
+Wi-Fi   5 GHzType: HomeName: BadConnection
+
+Mesh Client
+No
+
+IPv6 Address
+2600:1700:ab00:5810:a5e9:6a0f:fff2:a358
+
+Type
+slaac
+
+Valid Lifetime
+3600s
+
+Preferred Lifetime
+3600s
+
+IPv6 Address
+2600:1700:ab00:5810::27
+
+Type
+dhcp
+
+Valid Lifetime
+3600s
+
+Preferred Lifetime
+3600s
+
+IPv6 Address
+fe80::d95d:e428:aef8:3ffc
+
+Type
+slaac
+
+Valid Lifetime
+forever
+
+Preferred Lifetime
+forever
+
+
+MAC Address
+ec:c4:0d:72:bd:bf
+
+IPv4 Address / Name
+192.168.1.73
+ / unknownecc40d72bdbf
+
+Last Activity
+Fri Apr  1 17:36:56 2022
+
+Status
+on
+
+Allocation
+dhcp
+
+Connection Type
+Wi-Fi   2.4 GHzType: HomeName: BadConnection
+
+Mesh Client
+No
+
+
+
+
+
+
+
+
+
+
+Help
+The device list page shows all items of the LAN Host Discovery table. Use the "Clear and Rescan for Devices" button to reset the devices table and do a fresh search for connected LAN devices.
+
+Allocation types include static and dhcp. When the allocation type of a device has not yet been determined, it is marked pending.
+Devices that are powered off will continue to appear in the table, but be shown as "off" for a period of more than a day.
+The Last Activity display will be blank if the WAN is down or the device cannot reach a time server.
+ 
+ 
+
+
+
+
+
+
+
+© 2016-2022 AT&T Intellectual Property. All rights reserved. AT&T and Globe logo are registered trademarks of AT&T Intellectual Property.
+Site Map
+© 2016 ARRIS Enterprises LLC. All rights reserved. ARRIS is a registered trademark of ARRIS Enterprises LLC.
+
+
+
+
+
+
+
+Device List
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Skip to Main Content
+
+
+Device
+Broadband
+
+Home Network
+
+Voice
+Firewall
+Diagnostics
+
+
+
+
+
+Status
+Device List
+System Information
+Access Code
+Remote Access
+Restart Device
+
+
+
+
+
+
+
+
+Device List
+
+
+
+
+Home Network Devices  
+
+
+MAC Address
+00:1c:c2:52:09:9e
+
+IPv4 Address / Name
+192.168.1.159
+ / DNC-WHITE374
+
+Last Activity
+Fri Apr  1 19:32:34 2022
+
+Status
+off
+
+Allocation
+dhcp
+
+Connection Type
+Ethernet LAN-1
+
+Mesh Client
+No
+
+
+MAC Address
+38:f9:d3:c8:bb:fb
+
+IPv4 Address / Name
+192.168.1.160
+ / DNC-WHITE374
+
+Last Activity
+Fri Apr  1 20:52:07 2022
+
+Status
+on
+
+Allocation
+dhcp
+
+Connection Type
+Wi-Fi   5 GHzType: HomeName: BadConnection
+
+Mesh Client
+No
+
+
+MAC Address
+48:a6:b8:f7:8d:7c
+
+IPv4 Address / Name
+192.168.1.178
+ / SonosZP
+
+Last Activity
+Fri Apr  1 20:55:03 2022
+
+Status
+on
+
+Allocation
+dhcp
+
+Connection Type
+Wi-Fi   2.4 GHzType: HomeName: BadConnection
+
+Mesh Client
+No
+
+IPv6 Address
+2600:1700:ab00:5810:4aa6:b8ff:fef7:8d7c
+
+Type
+slaac
+
+Valid Lifetime
+3600s
+
+Preferred Lifetime
+3600s
+
+IPv6 Address
+fe80::4aa6:b8ff:fef7:8d7c
+
+Type
+slaac
+
+Valid Lifetime
+forever
+
+Preferred Lifetime
+forever
+
+
+MAC Address
+48:a6:b8:f7:8d:a0
+
+IPv4 Address / Name
+192.168.1.228
+ / SonosZP
+
+Last Activity
+Fri Apr  1 20:55:02 2022
+
+Status
+on
+
+Allocation
+dhcp
+
+Connection Type
+Wi-Fi   5 GHzType: HomeName: BadConnection
+
+Mesh Client
+No
+
+IPv6 Address
+2600:1700:ab00:5810:4aa6:b8ff:fef7:8da0
+
+Type
+slaac
+
+Valid Lifetime
+3600s
+
+Preferred Lifetime
+3600s
+
+IPv6 Address
+fe80::4aa6:b8ff:fef7:8da0
+
+Type
+slaac
+
+Valid Lifetime
+forever
+
+Preferred Lifetime
+forever
+
+
+MAC Address
+50:ed:3c:f1:4a:f2
+
+IPv4 Address / Name
+192.168.1.138
+ / Deborahs-iMac
+
+Last Activity
+Fri Apr  1 20:52:07 2022
+
+Status
+on
+
+Allocation
+dhcp
+
+Connection Type
+Wi-Fi   5 GHzType: HomeName: BadConnection
+
+Mesh Client
+No
+
+
+MAC Address
+54:2a:1b:8a:87:0b
+
+IPv4 Address / Name
+192.168.1.170
+ / SonosZP
+
+Last Activity
+Fri Apr  1 20:56:50 2022
+
+Status
+on
+
+Allocation
+dhcp
+
+Connection Type
+Wi-Fi   2.4 GHzType: HomeName: BadConnection
+
+Mesh Client
+No
+
+IPv6 Address
+2600:1700:ab00:5810:562a:1bff:fe8a:870b
+
+Type
+slaac
+
+Valid Lifetime
+3600s
+
+Preferred Lifetime
+3600s
+
+IPv6 Address
+fe80::562a:1bff:fe8a:870b
+
+Type
+slaac
+
+Valid Lifetime
+forever
+
+Preferred Lifetime
+forever
+
+
+MAC Address
+6e:b5:c3:64:d6:ea
+
+IPv4 Address / Name
+192.168.1.175
+ / unknown6eb5c364d6ea
+
+Last Activity
+Fri Apr  1 20:56:58 2022
+
+Status
+on
+
+Allocation
+dhcp
+
+Connection Type
+Wi-Fi   5 GHzType: HomeName: BadConnection
+
+Mesh Client
+No
+
+IPv6 Address
+2600:1700:ab00:5810:9479:6fef:9814:3349
+
+Type
+slaac
+
+Valid Lifetime
+3600s
+
+Preferred Lifetime
+3600s
+
+IPv6 Address
+fe80::c88:1b6d:6a69:8499
+
+Type
+slaac
+
+Valid Lifetime
+forever
+
+Preferred Lifetime
+forever
+
+
+MAC Address
+78:dd:12:f2:79:50
+
+IPv4 Address / Name
+192.168.1.213
+ / unknown78dd12f27950
+
+Last Activity
+Fri Apr  1 20:57:00 2022
+
+Status
+on
+
+Allocation
+static
+
+Connection Type
+Wi-Fi   5 GHzType: HomeName: BadConnection
+
+Mesh Client
+No
+
+
+MAC Address
+92:00:2f:f8:44:b6
+
+IPv4 Address / Name
+192.168.1.169
+ / unknown92002ff844b6
+
+Last Activity
+Fri Apr  1 20:49:21 2022
+
+Status
+on
+
+Allocation
+dhcp
+
+Connection Type
+Wi-Fi   2.4 GHzType: HomeName: BadConnection
+
+Mesh Client
+No
+
+
+MAC Address
+96:c2:24:fb:2e:b4
+
+IPv4 Address / Name
+192.168.1.179
+ / unknown96c224fb2eb4
+
+Last Activity
+Fri Apr  1 20:54:22 2022
+
+Status
+on
+
+Allocation
+dhcp
+
+Connection Type
+Wi-Fi   5 GHzType: HomeName: BadConnection
+
+Mesh Client
+No
+
+
+MAC Address
+9c:b6:d0:f3:74:f3
+
+IPv4 Address / Name
+192.168.1.127
+ / devserver
+
+Last Activity
+Fri Apr  1 20:56:42 2022
+
+Status
+on
+
+Allocation
+dhcp
+
+Connection Type
+Wi-Fi   5 GHzType: HomeName: BadConnection
+
+Mesh Client
+No
+
+IPv6 Address
+2600:1700:ab00:5810:ee49:1084:8a57:cb15
+
+Type
+slaac
+
+Valid Lifetime
+3600s
+
+Preferred Lifetime
+3600s
+
+
+MAC Address
+c4:95:00:0b:d3:5d
+
+IPv4 Address / Name
+192.168.1.104
+ / amazon-c7ca48c11
+
+Last Activity
+Fri Apr  1 20:41:17 2022
+
+Status
+off
+
+Allocation
+dhcp
+
+Connection Type
+Wi-Fi2.4 GHzType: HomeName: BadConnection
+
+Mesh Client
+No
+
+
+MAC Address
+dc:41:a9:a9:a2:e5
+
+IPv4 Address / Name
+192.168.1.144
+ / devloper
+
+Last Activity
+Fri Apr  1 20:56:55 2022
+
+Status
+on
+
+Allocation
+dhcp
+
+Connection Type
+Wi-Fi   5 GHzType: HomeName: BadConnection
+
+Mesh Client
+No
+
+IPv6 Address
+2600:1700:ab00:5810:a5e9:6a0f:fff2:a358
+
+Type
+slaac
+
+Valid Lifetime
+3600s
+
+Preferred Lifetime
+3600s
+
+IPv6 Address
+2600:1700:ab00:5810::27
+
+Type
+dhcp
+
+Valid Lifetime
+3600s
+
+Preferred Lifetime
+3600s
+
+IPv6 Address
+fe80::d95d:e428:aef8:3ffc
+
+Type
+slaac
+
+Valid Lifetime
+forever
+
+Preferred Lifetime
+forever
+
+
+MAC Address
+ec:c4:0d:72:bd:bf
+
+IPv4 Address / Name
+192.168.1.73
+ / unknownecc40d72bdbf
+
+Last Activity
+Fri Apr  1 20:54:15 2022
+
+Status
+on
+
+Allocation
+dhcp
+
+Connection Type
+Wi-Fi   2.4 GHzType: HomeName: BadConnection
+
+Mesh Client
+No
+
+
+
+
+
+
+
+
+
+
+Help
+The device list page shows all items of the LAN Host Discovery table. Use the "Clear and Rescan for Devices" button to reset the devices table and do a fresh search for connected LAN devices.
+
+Allocation types include static and dhcp. When the allocation type of a device has not yet been determined, it is marked pending.
+Devices that are powered off will continue to appear in the table, but be shown as "off" for a period of more than a day.
+The Last Activity display will be blank if the WAN is down or the device cannot reach a time server.
+ 
+ 
+
+
+
+
+
+
+
+© 2016-2022 AT&T Intellectual Property. All rights reserved. AT&T and Globe logo are registered trademarks of AT&T Intellectual Property.
+Site Map
+© 2016 ARRIS Enterprises LLC. All rights reserved. ARRIS is a registered trademark of ARRIS Enterprises LLC.
+
+
+
+
+
+
+
+Device List
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Skip to Main Content
+
+
+Device
+Broadband
+
+Home Network
+
+Voice
+Firewall
+Diagnostics
+
+
+
+
+
+Status
+Device List
+System Information
+Access Code
+Remote Access
+Restart Device
+
+
+
+
+
+
+
+
+Device List
+
+
+
+
+Home Network Devices  
+
+
+MAC Address
+00:1c:c2:52:09:9e
+
+IPv4 Address / Name
+192.168.1.159
+ / DNC-WHITE374
+
+Last Activity
+Fri Apr  1 19:32:34 2022
+
+Status
+off
+
+Allocation
+dhcp
+
+Connection Type
+Ethernet LAN-1
+
+Mesh Client
+No
+
+
+MAC Address
+38:f9:d3:c8:bb:fb
+
+IPv4 Address / Name
+192.168.1.160
+ / DNC-WHITE374
+
+Last Activity
+Fri Apr  1 20:52:07 2022
+
+Status
+on
+
+Allocation
+dhcp
+
+Connection Type
+Wi-Fi   5 GHzType: HomeName: BadConnection
+
+Mesh Client
+No
+
+
+MAC Address
+48:a6:b8:f7:8d:7c
+
+IPv4 Address / Name
+192.168.1.178
+ / SonosZP
+
+Last Activity
+Fri Apr  1 20:57:07 2022
+
+Status
+on
+
+Allocation
+dhcp
+
+Connection Type
+Wi-Fi   2.4 GHzType: HomeName: BadConnection
+
+Mesh Client
+No
+
+IPv6 Address
+2600:1700:ab00:5810:4aa6:b8ff:fef7:8d7c
+
+Type
+slaac
+
+Valid Lifetime
+3600s
+
+Preferred Lifetime
+3600s
+
+IPv6 Address
+fe80::4aa6:b8ff:fef7:8d7c
+
+Type
+slaac
+
+Valid Lifetime
+forever
+
+Preferred Lifetime
+forever
+
+
+MAC Address
+48:a6:b8:f7:8d:a0
+
+IPv4 Address / Name
+192.168.1.228
+ / SonosZP
+
+Last Activity
+Fri Apr  1 20:57:07 2022
+
+Status
+on
+
+Allocation
+dhcp
+
+Connection Type
+Wi-Fi   5 GHzType: HomeName: BadConnection
+
+Mesh Client
+No
+
+IPv6 Address
+2600:1700:ab00:5810:4aa6:b8ff:fef7:8da0
+
+Type
+slaac
+
+Valid Lifetime
+3600s
+
+Preferred Lifetime
+3600s
+
+IPv6 Address
+fe80::4aa6:b8ff:fef7:8da0
+
+Type
+slaac
+
+Valid Lifetime
+forever
+
+Preferred Lifetime
+forever
+
+
+MAC Address
+50:ed:3c:f1:4a:f2
+
+IPv4 Address / Name
+192.168.1.138
+ / Deborahs-iMac
+
+Last Activity
+Fri Apr  1 20:57:07 2022
+
+Status
+on
+
+Allocation
+dhcp
+
+Connection Type
+Wi-Fi   5 GHzType: HomeName: BadConnection
+
+Mesh Client
+No
+
+
+MAC Address
+54:2a:1b:8a:87:0b
+
+IPv4 Address / Name
+192.168.1.170
+ / SonosZP
+
+Last Activity
+Fri Apr  1 20:57:07 2022
+
+Status
+on
+
+Allocation
+dhcp
+
+Connection Type
+Wi-Fi   2.4 GHzType: HomeName: BadConnection
+
+Mesh Client
+No
+
+IPv6 Address
+2600:1700:ab00:5810:562a:1bff:fe8a:870b
+
+Type
+slaac
+
+Valid Lifetime
+3600s
+
+Preferred Lifetime
+3600s
+
+IPv6 Address
+fe80::562a:1bff:fe8a:870b
+
+Type
+slaac
+
+Valid Lifetime
+forever
+
+Preferred Lifetime
+forever
+
+
+MAC Address
+6e:b5:c3:64:d6:ea
+
+IPv4 Address / Name
+192.168.1.175
+ / unknown6eb5c364d6ea
+
+Last Activity
+Fri Apr  1 20:57:07 2022
+
+Status
+on
+
+Allocation
+dhcp
+
+Connection Type
+Wi-Fi   5 GHzType: HomeName: BadConnection
+
+Mesh Client
+No
+
+IPv6 Address
+2600:1700:ab00:5810:9479:6fef:9814:3349
+
+Type
+slaac
+
+Valid Lifetime
+3600s
+
+Preferred Lifetime
+3600s
+
+IPv6 Address
+fe80::c88:1b6d:6a69:8499
+
+Type
+slaac
+
+Valid Lifetime
+forever
+
+Preferred Lifetime
+forever
+
+
+MAC Address
+78:dd:12:f2:79:50
+
+IPv4 Address / Name
+192.168.1.213
+ / unknown78dd12f27950
+
+Last Activity
+Fri Apr  1 20:57:00 2022
+
+Status
+on
+
+Allocation
+static
+
+Connection Type
+Wi-Fi   5 GHzType: HomeName: BadConnection
+
+Mesh Client
+No
+
+
+MAC Address
+92:00:2f:f8:44:b6
+
+IPv4 Address / Name
+192.168.1.169
+ / unknown92002ff844b6
+
+Last Activity
+Fri Apr  1 20:49:21 2022
+
+Status
+on
+
+Allocation
+dhcp
+
+Connection Type
+Wi-Fi   2.4 GHzType: HomeName: BadConnection
+
+Mesh Client
+No
+
+
+MAC Address
+96:c2:24:fb:2e:b4
+
+IPv4 Address / Name
+192.168.1.179
+ / unknown96c224fb2eb4
+
+Last Activity
+Fri Apr  1 20:57:07 2022
+
+Status
+on
+
+Allocation
+dhcp
+
+Connection Type
+Wi-Fi   5 GHzType: HomeName: BadConnection
+
+Mesh Client
+No
+
+
+MAC Address
+9c:b6:d0:f3:74:f3
+
+IPv4 Address / Name
+192.168.1.127
+ / devserver
+
+Last Activity
+Fri Apr  1 20:57:07 2022
+
+Status
+on
+
+Allocation
+dhcp
+
+Connection Type
+Wi-Fi   5 GHzType: HomeName: BadConnection
+
+Mesh Client
+No
+
+IPv6 Address
+2600:1700:ab00:5810:ee49:1084:8a57:cb15
+
+Type
+slaac
+
+Valid Lifetime
+3600s
+
+Preferred Lifetime
+3600s
+
+
+MAC Address
+c4:95:00:0b:d3:5d
+
+IPv4 Address / Name
+192.168.1.104
+ / amazon-c7ca48c11
+
+Last Activity
+Fri Apr  1 20:41:17 2022
+
+Status
+off
+
+Allocation
+dhcp
+
+Connection Type
+Wi-Fi2.4 GHzType: HomeName: BadConnection
+
+Mesh Client
+No
+
+
+MAC Address
+dc:41:a9:a9:a2:e5
+
+IPv4 Address / Name
+192.168.1.144
+ / devloper
+
+Last Activity
+Fri Apr  1 20:57:07 2022
+
+Status
+on
+
+Allocation
+dhcp
+
+Connection Type
+Wi-Fi   5 GHzType: HomeName: BadConnection
+
+Mesh Client
+No
+
+IPv6 Address
+2600:1700:ab00:5810:a5e9:6a0f:fff2:a358
+
+Type
+slaac
+
+Valid Lifetime
+3600s
+
+Preferred Lifetime
+3600s
+
+IPv6 Address
+2600:1700:ab00:5810::27
+
+Type
+dhcp
+
+Valid Lifetime
+3600s
+
+Preferred Lifetime
+3600s
+
+IPv6 Address
+fe80::d95d:e428:aef8:3ffc
+
+Type
+slaac
+
+Valid Lifetime
+forever
+
+Preferred Lifetime
+forever
+
+
+MAC Address
+ec:c4:0d:72:bd:bf
+
+IPv4 Address / Name
+192.168.1.73
+ / unknownecc40d72bdbf
+
+Last Activity
+Fri Apr  1 20:57:07 2022
+
+Status
+on
+
+Allocation
+dhcp
+
+Connection Type
+Wi-Fi   2.4 GHzType: HomeName: BadConnection
+
+Mesh Client
+No
+
+
+
+
+
+
+
+
+
+
+Help
+The device list page shows all items of the LAN Host Discovery table. Use the "Clear and Rescan for Devices" button to reset the devices table and do a fresh search for connected LAN devices.
+
+Allocation types include static and dhcp. When the allocation type of a device has not yet been determined, it is marked pending.
+Devices that are powered off will continue to appear in the table, but be shown as "off" for a period of more than a day.
+The Last Activity display will be blank if the WAN is down or the device cannot reach a time server.
+ 
+ 
+
+
+
+
+
+
+
+© 2016-2022 AT&T Intellectual Property. All rights reserved. AT&T and Globe logo are registered trademarks of AT&T Intellectual Property.
+Site Map
+© 2016 ARRIS Enterprises LLC. All rights reserved. ARRIS is a registered trademark of ARRIS Enterprises LLC.
+
+
+
+
+
+
+
+Device List
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Skip to Main Content
+
+
+Device
+Broadband
+
+Home Network
+
+Voice
+Firewall
+Diagnostics
+
+
+
+
+
+Status
+Device List
+System Information
+Access Code
+Remote Access
+Restart Device
+
+
+
+
+
+
+
+
+Device List
+
+
+
+
+Home Network Devices  
+
+
+MAC Address
+00:1c:c2:52:09:9e
+
+IPv4 Address / Name
+192.168.1.159
+ / DNC-WHITE374
+
+Last Activity
+Sat Apr  2 10:41:31 2022
+
+Status
+off
+
+Allocation
+dhcp
+
+Connection Type
+Ethernet LAN-1
+
+Mesh Client
+No
+
+
+MAC Address
+38:f9:d3:c8:bb:fb
+
+IPv4 Address / Name
+192.168.1.160
+ / DNC-WHITE374
+
+Last Activity
+Sat Apr  2 10:49:14 2022
+
+Status
+on
+
+Allocation
+dhcp
+
+Connection Type
+Wi-Fi   5 GHzType: HomeName: BadConnection
+
+Mesh Client
+No
+
+IPv6 Address
+2600:1700:ab00:5810:1c82:6df1:218d:c650
+
+Type
+slaac
+
+Valid Lifetime
+3600s
+
+Preferred Lifetime
+3600s
+
+
+MAC Address
+48:a6:b8:f7:8d:7c
+
+IPv4 Address / Name
+192.168.1.178
+ / SonosZP
+
+Last Activity
+Sat Apr  2 10:49:19 2022
+
+Status
+on
+
+Allocation
+dhcp
+
+Connection Type
+Wi-Fi   2.4 GHzType: HomeName: BadConnection
+
+Mesh Client
+No
+
+IPv6 Address
+2600:1700:ab00:5810:4aa6:b8ff:fef7:8d7c
+
+Type
+slaac
+
+Valid Lifetime
+3600s
+
+Preferred Lifetime
+3600s
+
+IPv6 Address
+fe80::4aa6:b8ff:fef7:8d7c
+
+Type
+slaac
+
+Valid Lifetime
+forever
+
+Preferred Lifetime
+forever
+
+
+MAC Address
+48:a6:b8:f7:8d:a0
+
+IPv4 Address / Name
+192.168.1.228
+ / SonosZP
+
+Last Activity
+Sat Apr  2 10:49:19 2022
+
+Status
+on
+
+Allocation
+dhcp
+
+Connection Type
+Wi-Fi   5 GHzType: HomeName: BadConnection
+
+Mesh Client
+No
+
+IPv6 Address
+2600:1700:ab00:5810:4aa6:b8ff:fef7:8da0
+
+Type
+slaac
+
+Valid Lifetime
+3600s
+
+Preferred Lifetime
+3600s
+
+IPv6 Address
+fe80::4aa6:b8ff:fef7:8da0
+
+Type
+slaac
+
+Valid Lifetime
+forever
+
+Preferred Lifetime
+forever
+
+
+MAC Address
+50:ed:3c:f1:4a:f2
+
+IPv4 Address / Name
+192.168.1.138
+ / Deborahs-iMac
+
+Last Activity
+Sat Apr  2 10:49:14 2022
+
+Status
+on
+
+Allocation
+dhcp
+
+Connection Type
+Wi-Fi   5 GHzType: HomeName: BadConnection
+
+Mesh Client
+No
+
+IPv6 Address
+2600:1700:ab00:5810::2d
+
+Type
+dhcp
+
+Valid Lifetime
+3600s
+
+Preferred Lifetime
+3600s
+
+
+MAC Address
+54:2a:1b:8a:87:0b
+
+IPv4 Address / Name
+192.168.1.170
+ / SonosZP
+
+Last Activity
+Sat Apr  2 10:49:19 2022
+
+Status
+on
+
+Allocation
+dhcp
+
+Connection Type
+Wi-Fi   2.4 GHzType: HomeName: BadConnection
+
+Mesh Client
+No
+
+IPv6 Address
+2600:1700:ab00:5810:562a:1bff:fe8a:870b
+
+Type
+slaac
+
+Valid Lifetime
+3600s
+
+Preferred Lifetime
+3600s
+
+IPv6 Address
+fe80::562a:1bff:fe8a:870b
+
+Type
+slaac
+
+Valid Lifetime
+forever
+
+Preferred Lifetime
+forever
+
+
+MAC Address
+5c:ea:1d:5f:ab:bd
+
+IPv4 Address / Name
+192.168.1.177
+ / aheisleycook-Inspiron-5570
+
+Last Activity
+Sat Apr  2 09:03:19 2022
+
+Status
+off
+
+Allocation
+dhcp
+
+Connection Type
+Ethernet LAN-6
+
+Mesh Client
+No
+
+
+MAC Address
+62:9b:99:d1:f3:a2
+
+IPv4 Address / Name
+192.168.1.95
+ / unknown629b99d1f3a2
+
+Last Activity
+Sat Apr  2 10:49:18 2022
+
+Status
+on
+
+Allocation
+dhcp
+
+Connection Type
+Wi-Fi   5 GHzType: HomeName: BadConnection
+
+Mesh Client
+No
+
+IPv6 Address
+2600:1700:ab00:5810:c020:fe90:91c7:b39d
+
+Type
+slaac
+
+Valid Lifetime
+3600s
+
+Preferred Lifetime
+3600s
+
+IPv6 Address
+2600:1700:ab00:5810::3b
+
+Type
+slaac
+
+Valid Lifetime
+3600s
+
+Preferred Lifetime
+3600s
+
+IPv6 Address
+fe80::876:dc6:766c:268e
+
+Type
+slaac
+
+Valid Lifetime
+forever
+
+Preferred Lifetime
+forever
+
+
+MAC Address
+6e:b5:c3:64:d6:ea
+
+IPv4 Address / Name
+192.168.1.175
+ / unknown6eb5c364d6ea
+
+Last Activity
+Sat Apr  2 08:31:14 2022
+
+Status
+off
+
+Allocation
+dhcp
+
+Connection Type
+Wi-Fi5 GHzType: HomeName: BadConnection
+
+Mesh Client
+No
+
+
+MAC Address
+78:dd:12:f2:79:50
+
+IPv4 Address / Name
+192.168.1.213
+ / unknown78dd12f27950
+
+Last Activity
+Sat Apr  2 03:49:18 2022
+
+Status
+on
+
+Allocation
+static
+
+Connection Type
+Wi-Fi   5 GHzType: HomeName: BadConnection
+
+Mesh Client
+No
+
+
+MAC Address
+92:00:2f:f8:44:b6
+
+IPv4 Address / Name
+192.168.1.169
+ / unknown92002ff844b6
+
+Last Activity
+Sat Apr  2 07:45:10 2022
+
+Status
+off
+
+Allocation
+dhcp
+
+Connection Type
+Wi-Fi2.4 GHzType: HomeName: BadConnection
+
+Mesh Client
+No
+
+
+MAC Address
+96:c2:24:fb:2e:b4
+
+IPv4 Address / Name
+192.168.1.179
+ / unknown96c224fb2eb4
+
+Last Activity
+Sat Apr  2 10:49:19 2022
+
+Status
+on
+
+Allocation
+dhcp
+
+Connection Type
+Wi-Fi   5 GHzType: HomeName: BadConnection
+
+Mesh Client
+No
+
+IPv6 Address
+2600:1700:ab00:5810:a89d:6b57:d5cf:7c4e
+
+Type
+slaac
+
+Valid Lifetime
+3600s
+
+Preferred Lifetime
+3600s
+
+IPv6 Address
+2600:1700:ab00:5810::29
+
+Type
+dhcp
+
+Valid Lifetime
+3600s
+
+Preferred Lifetime
+3600s
+
+IPv6 Address
+fe80::14a0:b60d:85b8:ae07
+
+Type
+slaac
+
+Valid Lifetime
+forever
+
+Preferred Lifetime
+forever
+
+
+MAC Address
+9c:b6:d0:f3:74:f3
+
+IPv4 Address / Name
+192.168.1.127
+ / devserver
+
+Last Activity
+Sat Apr  2 10:49:18 2022
+
+Status
+on
+
+Allocation
+dhcp
+
+Connection Type
+Wi-Fi   5 GHzType: HomeName: BadConnection
+
+Mesh Client
+No
+
+IPv6 Address
+2600:1700:ab00:5810:241d:7a5e:2cd:d378
+
+Type
+slaac
+
+Valid Lifetime
+3600s
+
+Preferred Lifetime
+3600s
+
+IPv6 Address
+2600:1700:ab00:5810::22
+
+Type
+dhcp
+
+Valid Lifetime
+3600s
+
+Preferred Lifetime
+3600s
+
+IPv6 Address
+2600:1700:ab00:5810:4102:532d:ea10:da9c
+
+Type
+slaac
+
+Valid Lifetime
+3600s
+
+Preferred Lifetime
+3600s
+
+IPv6 Address
+2600:1700:ab00:5810:ee49:1084:8a57:cb15
+
+Type
+slaac
+
+Valid Lifetime
+3600s
+
+Preferred Lifetime
+3600s
+
+
+MAC Address
+c4:95:00:0b:d3:5d
+
+IPv4 Address / Name
+192.168.1.104
+ / amazon-c7ca48c11
+
+Last Activity
+Sat Apr  2 10:35:20 2022
+
+Status
+off
+
+Allocation
+dhcp
+
+Connection Type
+Wi-Fi2.4 GHzType: HomeName: BadConnection
+
+Mesh Client
+No
+
+
+MAC Address
+dc:41:a9:a9:a2:e5
+
+IPv4 Address / Name
+192.168.1.191
+ / devloper
+
+Last Activity
+Sat Apr  2 10:49:15 2022
+
+Status
+on
+
+Allocation
+dhcp
+
+Connection Type
+Wi-Fi   5 GHzType: HomeName: BadConnection
+
+Mesh Client
+No
+
+IPv6 Address
+2600:1700:ab00:5810::27
+
+Type
+dhcp
+
+Valid Lifetime
+3600s
+
+Preferred Lifetime
+3600s
+
+IPv6 Address
+2600:1700:ab00:5810:9cf9:5e31:4414:56cc
+
+Type
+slaac
+
+Valid Lifetime
+3600s
+
+Preferred Lifetime
+3600s
+
+IPv6 Address
+fe80::d95d:e428:aef8:3ffc
+
+Type
+slaac
+
+Valid Lifetime
+forever
+
+Preferred Lifetime
+forever
+
+
+MAC Address
+ec:c4:0d:72:bd:bf
+
+IPv4 Address / Name
+192.168.1.73
+ / unknownecc40d72bdbf
+
+Last Activity
+Sat Apr  2 10:49:16 2022
+
+Status
+on
+
+Allocation
+dhcp
+
+Connection Type
+Wi-Fi   2.4 GHzType: HomeName: BadConnection
+
+Mesh Client
+No
+
+
+
+
+
+
+
+
+
+
+Help
+The device list page shows all items of the LAN Host Discovery table. Use the "Clear and Rescan for Devices" button to reset the devices table and do a fresh search for connected LAN devices.
+
+Allocation types include static and dhcp. When the allocation type of a device has not yet been determined, it is marked pending.
+Devices that are powered off will continue to appear in the table, but be shown as "off" for a period of more than a day.
+The Last Activity display will be blank if the WAN is down or the device cannot reach a time server.
+ 
+ 
+
+
+
+
+
+
+
+© 2016-2022 AT&T Intellectual Property. All rights reserved. AT&T and Globe logo are registered trademarks of AT&T Intellectual Property.
+Site Map
+© 2016 ARRIS Enterprises LLC. All rights reserved. ARRIS is a registered trademark of ARRIS Enterprises LLC.
+
+
+
+
+
+
+
+Device List
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Skip to Main Content
+
+
+Device
+Broadband
+
+Home Network
+
+Voice
+Firewall
+Diagnostics
+
+
+
+
+
+Status
+Device List
+System Information
+Access Code
+Remote Access
+Restart Device
+
+
+
+
+
+
+
+
+Device List
+
+
+
+
+Home Network Devices  
+
+
+MAC Address
+00:1c:c2:52:09:9e
+
+IPv4 Address / Name
+192.168.1.159
+ / DNC-WHITE374
+
+Last Activity
+Sat Apr  2 10:41:31 2022
+
+Status
+off
+
+Allocation
+dhcp
+
+Connection Type
+Ethernet LAN-1
+
+Mesh Client
+No
+
+
+MAC Address
+38:f9:d3:c8:bb:fb
+
+IPv4 Address / Name
+192.168.1.160
+ / DNC-WHITE374
+
+Last Activity
+Sat Apr  2 10:49:14 2022
+
+Status
+on
+
+Allocation
+dhcp
+
+Connection Type
+Wi-Fi   5 GHzType: HomeName: BadConnection
+
+Mesh Client
+No
+
+IPv6 Address
+2600:1700:ab00:5810:1c82:6df1:218d:c650
+
+Type
+slaac
+
+Valid Lifetime
+3600s
+
+Preferred Lifetime
+3600s
+
+
+MAC Address
+48:a6:b8:f7:8d:7c
+
+IPv4 Address / Name
+192.168.1.178
+ / SonosZP
+
+Last Activity
+Sat Apr  2 10:49:19 2022
+
+Status
+on
+
+Allocation
+dhcp
+
+Connection Type
+Wi-Fi   2.4 GHzType: HomeName: BadConnection
+
+Mesh Client
+No
+
+IPv6 Address
+2600:1700:ab00:5810:4aa6:b8ff:fef7:8d7c
+
+Type
+slaac
+
+Valid Lifetime
+3600s
+
+Preferred Lifetime
+3600s
+
+IPv6 Address
+fe80::4aa6:b8ff:fef7:8d7c
+
+Type
+slaac
+
+Valid Lifetime
+forever
+
+Preferred Lifetime
+forever
+
+
+MAC Address
+48:a6:b8:f7:8d:a0
+
+IPv4 Address / Name
+192.168.1.228
+ / SonosZP
+
+Last Activity
+Sat Apr  2 10:49:19 2022
+
+Status
+on
+
+Allocation
+dhcp
+
+Connection Type
+Wi-Fi   5 GHzType: HomeName: BadConnection
+
+Mesh Client
+No
+
+IPv6 Address
+2600:1700:ab00:5810:4aa6:b8ff:fef7:8da0
+
+Type
+slaac
+
+Valid Lifetime
+3600s
+
+Preferred Lifetime
+3600s
+
+IPv6 Address
+fe80::4aa6:b8ff:fef7:8da0
+
+Type
+slaac
+
+Valid Lifetime
+forever
+
+Preferred Lifetime
+forever
+
+
+MAC Address
+50:ed:3c:f1:4a:f2
+
+IPv4 Address / Name
+192.168.1.138
+ / Deborahs-iMac
+
+Last Activity
+Sat Apr  2 10:49:14 2022
+
+Status
+on
+
+Allocation
+dhcp
+
+Connection Type
+Wi-Fi   5 GHzType: HomeName: BadConnection
+
+Mesh Client
+No
+
+IPv6 Address
+2600:1700:ab00:5810::2d
+
+Type
+dhcp
+
+Valid Lifetime
+3600s
+
+Preferred Lifetime
+3600s
+
+
+MAC Address
+54:2a:1b:8a:87:0b
+
+IPv4 Address / Name
+192.168.1.170
+ / SonosZP
+
+Last Activity
+Sat Apr  2 10:49:19 2022
+
+Status
+on
+
+Allocation
+dhcp
+
+Connection Type
+Wi-Fi   2.4 GHzType: HomeName: BadConnection
+
+Mesh Client
+No
+
+IPv6 Address
+2600:1700:ab00:5810:562a:1bff:fe8a:870b
+
+Type
+slaac
+
+Valid Lifetime
+3600s
+
+Preferred Lifetime
+3600s
+
+IPv6 Address
+fe80::562a:1bff:fe8a:870b
+
+Type
+slaac
+
+Valid Lifetime
+forever
+
+Preferred Lifetime
+forever
+
+
+MAC Address
+5c:ea:1d:5f:ab:bd
+
+IPv4 Address / Name
+192.168.1.177
+ / aheisleycook-Inspiron-5570
+
+Last Activity
+Sat Apr  2 09:03:19 2022
+
+Status
+off
+
+Allocation
+dhcp
+
+Connection Type
+Ethernet LAN-6
+
+Mesh Client
+No
+
+
+MAC Address
+62:9b:99:d1:f3:a2
+
+IPv4 Address / Name
+192.168.1.95
+ / unknown629b99d1f3a2
+
+Last Activity
+Sat Apr  2 10:49:18 2022
+
+Status
+on
+
+Allocation
+dhcp
+
+Connection Type
+Wi-Fi   5 GHzType: HomeName: BadConnection
+
+Mesh Client
+No
+
+IPv6 Address
+2600:1700:ab00:5810::3b
+
+Type
+slaac
+
+Valid Lifetime
+3600s
+
+Preferred Lifetime
+3600s
+
+
+MAC Address
+6e:b5:c3:64:d6:ea
+
+IPv4 Address / Name
+192.168.1.175
+ / unknown6eb5c364d6ea
+
+Last Activity
+Sat Apr  2 08:31:14 2022
+
+Status
+off
+
+Allocation
+dhcp
+
+Connection Type
+Wi-Fi5 GHzType: HomeName: BadConnection
+
+Mesh Client
+No
+
+
+MAC Address
+78:dd:12:f2:79:50
+
+IPv4 Address / Name
+192.168.1.213
+ / unknown78dd12f27950
+
+Last Activity
+Sat Apr  2 03:49:18 2022
+
+Status
+on
+
+Allocation
+static
+
+Connection Type
+Wi-Fi   5 GHzType: HomeName: BadConnection
+
+Mesh Client
+No
+
+
+MAC Address
+92:00:2f:f8:44:b6
+
+IPv4 Address / Name
+192.168.1.169
+ / unknown92002ff844b6
+
+Last Activity
+Sat Apr  2 07:45:10 2022
+
+Status
+off
+
+Allocation
+dhcp
+
+Connection Type
+Wi-Fi2.4 GHzType: HomeName: BadConnection
+
+Mesh Client
+No
+
+
+MAC Address
+96:c2:24:fb:2e:b4
+
+IPv4 Address / Name
+192.168.1.179
+ / unknown96c224fb2eb4
+
+Last Activity
+Sat Apr  2 10:49:19 2022
+
+Status
+on
+
+Allocation
+dhcp
+
+Connection Type
+Wi-Fi   5 GHzType: HomeName: BadConnection
+
+Mesh Client
+No
+
+IPv6 Address
+2600:1700:ab00:5810:a89d:6b57:d5cf:7c4e
+
+Type
+slaac
+
+Valid Lifetime
+3600s
+
+Preferred Lifetime
+3600s
+
+IPv6 Address
+2600:1700:ab00:5810::29
+
+Type
+dhcp
+
+Valid Lifetime
+3600s
+
+Preferred Lifetime
+3600s
+
+IPv6 Address
+fe80::14a0:b60d:85b8:ae07
+
+Type
+slaac
+
+Valid Lifetime
+forever
+
+Preferred Lifetime
+forever
+
+
+MAC Address
+9c:b6:d0:f3:74:f3
+
+IPv4 Address / Name
+192.168.1.127
+ / devserver
+
+Last Activity
+Sat Apr  2 10:49:18 2022
+
+Status
+on
+
+Allocation
+dhcp
+
+Connection Type
+Wi-Fi   5 GHzType: HomeName: BadConnection
+
+Mesh Client
+No
+
+IPv6 Address
+2600:1700:ab00:5810:241d:7a5e:2cd:d378
+
+Type
+slaac
+
+Valid Lifetime
+3600s
+
+Preferred Lifetime
+3600s
+
+IPv6 Address
+2600:1700:ab00:5810::22
+
+Type
+dhcp
+
+Valid Lifetime
+3600s
+
+Preferred Lifetime
+3600s
+
+IPv6 Address
+2600:1700:ab00:5810:4102:532d:ea10:da9c
+
+Type
+slaac
+
+Valid Lifetime
+3600s
+
+Preferred Lifetime
+3600s
+
+IPv6 Address
+2600:1700:ab00:5810:ee49:1084:8a57:cb15
+
+Type
+slaac
+
+Valid Lifetime
+3600s
+
+Preferred Lifetime
+3600s
+
+
+MAC Address
+c4:95:00:0b:d3:5d
+
+IPv4 Address / Name
+192.168.1.104
+ / amazon-c7ca48c11
+
+Last Activity
+Sat Apr  2 10:35:20 2022
+
+Status
+off
+
+Allocation
+dhcp
+
+Connection Type
+Wi-Fi2.4 GHzType: HomeName: BadConnection
+
+Mesh Client
+No
+
+
+MAC Address
+dc:41:a9:a9:a2:e5
+
+IPv4 Address / Name
+192.168.1.191
+ / devloper
+
+Last Activity
+Sat Apr  2 10:49:15 2022
+
+Status
+on
+
+Allocation
+dhcp
+
+Connection Type
+Wi-Fi   5 GHzType: HomeName: BadConnection
+
+Mesh Client
+No
+
+IPv6 Address
+2600:1700:ab00:5810:9cf9:5e31:4414:56cc
+
+Type
+slaac
+
+Valid Lifetime
+3600s
+
+Preferred Lifetime
+3600s
+
+IPv6 Address
+fe80::d95d:e428:aef8:3ffc
+
+Type
+slaac
+
+Valid Lifetime
+forever
+
+Preferred Lifetime
+forever
+
+
+MAC Address
+ec:c4:0d:72:bd:bf
+
+IPv4 Address / Name
+192.168.1.73
+ / unknownecc40d72bdbf
+
+Last Activity
+Sat Apr  2 10:49:16 2022
+
+Status
+on
+
+Allocation
+dhcp
+
+Connection Type
+Wi-Fi   2.4 GHzType: HomeName: BadConnection
+
+Mesh Client
+No
+
+
+
+
+
+
+
+
+
+
+Help
+The device list page shows all items of the LAN Host Discovery table. Use the "Clear and Rescan for Devices" button to reset the devices table and do a fresh search for connected LAN devices.
+
+Allocation types include static and dhcp. When the allocation type of a device has not yet been determined, it is marked pending.
+Devices that are powered off will continue to appear in the table, but be shown as "off" for a period of more than a day.
+The Last Activity display will be blank if the WAN is down or the device cannot reach a time server.
+ 
+ 
+
+
+
+
+
+
+
+© 2016-2022 AT&T Intellectual Property. All rights reserved. AT&T and Globe logo are registered trademarks of AT&T Intellectual Property.
+Site Map
+© 2016 ARRIS Enterprises LLC. All rights reserved. ARRIS is a registered trademark of ARRIS Enterprises LLC.
+
+
+
+
+
+
+
+Device List
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Skip to Main Content
+
+
+Device
+Broadband
+
+Home Network
+
+Voice
+Firewall
+Diagnostics
+
+
+
+
+
+Status
+Device List
+System Information
+Access Code
+Remote Access
+Restart Device
+
+
+
+
+
+
+
+
+Device List
+
+
+
+
+Home Network Devices  
+
+
+MAC Address
+00:1c:c2:52:09:9e
+
+IPv4 Address / Name
+192.168.1.159
+ / DNC-WHITE374
+
+Last Activity
+Sat Apr  2 10:41:31 2022
+
+Status
+off
+
+Allocation
+dhcp
+
+Connection Type
+Ethernet LAN-1
+
+Mesh Client
+No
+
+
+MAC Address
+38:f9:d3:c8:bb:fb
+
+IPv4 Address / Name
+192.168.1.160
+ / DNC-WHITE374
+
+Last Activity
+Sat Apr  2 10:49:14 2022
+
+Status
+on
+
+Allocation
+dhcp
+
+Connection Type
+Wi-Fi   5 GHzType: HomeName: BadConnection
+
+Mesh Client
+No
+
+IPv6 Address
+2600:1700:ab00:5810:1c82:6df1:218d:c650
+
+Type
+slaac
+
+Valid Lifetime
+3600s
+
+Preferred Lifetime
+3600s
+
+
+MAC Address
+48:a6:b8:f7:8d:7c
+
+IPv4 Address / Name
+192.168.1.178
+ / SonosZP
+
+Last Activity
+Sat Apr  2 10:49:19 2022
+
+Status
+on
+
+Allocation
+dhcp
+
+Connection Type
+Wi-Fi   2.4 GHzType: HomeName: BadConnection
+
+Mesh Client
+No
+
+IPv6 Address
+2600:1700:ab00:5810:4aa6:b8ff:fef7:8d7c
+
+Type
+slaac
+
+Valid Lifetime
+3600s
+
+Preferred Lifetime
+3600s
+
+IPv6 Address
+fe80::4aa6:b8ff:fef7:8d7c
+
+Type
+slaac
+
+Valid Lifetime
+forever
+
+Preferred Lifetime
+forever
+
+
+MAC Address
+48:a6:b8:f7:8d:a0
+
+IPv4 Address / Name
+192.168.1.228
+ / SonosZP
+
+Last Activity
+Sat Apr  2 10:49:19 2022
+
+Status
+on
+
+Allocation
+dhcp
+
+Connection Type
+Wi-Fi   5 GHzType: HomeName: BadConnection
+
+Mesh Client
+No
+
+IPv6 Address
+2600:1700:ab00:5810:4aa6:b8ff:fef7:8da0
+
+Type
+slaac
+
+Valid Lifetime
+3600s
+
+Preferred Lifetime
+3600s
+
+IPv6 Address
+fe80::4aa6:b8ff:fef7:8da0
+
+Type
+slaac
+
+Valid Lifetime
+forever
+
+Preferred Lifetime
+forever
+
+
+MAC Address
+50:ed:3c:f1:4a:f2
+
+IPv4 Address / Name
+192.168.1.138
+ / Deborahs-iMac
+
+Last Activity
+Sat Apr  2 10:49:14 2022
+
+Status
+on
+
+Allocation
+dhcp
+
+Connection Type
+Wi-Fi   5 GHzType: HomeName: BadConnection
+
+Mesh Client
+No
+
+IPv6 Address
+2600:1700:ab00:5810::2d
+
+Type
+dhcp
+
+Valid Lifetime
+3600s
+
+Preferred Lifetime
+3600s
+
+
+MAC Address
+54:2a:1b:8a:87:0b
+
+IPv4 Address / Name
+192.168.1.170
+ / SonosZP
+
+Last Activity
+Sat Apr  2 10:49:19 2022
+
+Status
+on
+
+Allocation
+dhcp
+
+Connection Type
+Wi-Fi   2.4 GHzType: HomeName: BadConnection
+
+Mesh Client
+No
+
+IPv6 Address
+2600:1700:ab00:5810:562a:1bff:fe8a:870b
+
+Type
+slaac
+
+Valid Lifetime
+3600s
+
+Preferred Lifetime
+3600s
+
+IPv6 Address
+fe80::562a:1bff:fe8a:870b
+
+Type
+slaac
+
+Valid Lifetime
+forever
+
+Preferred Lifetime
+forever
+
+
+MAC Address
+5c:ea:1d:5f:ab:bd
+
+IPv4 Address / Name
+192.168.1.177
+ / aheisleycook-Inspiron-5570
+
+Last Activity
+Sat Apr  2 09:03:19 2022
+
+Status
+off
+
+Allocation
+dhcp
+
+Connection Type
+Ethernet LAN-6
+
+Mesh Client
+No
+
+
+MAC Address
+62:9b:99:d1:f3:a2
+
+IPv4 Address / Name
+192.168.1.95
+ / unknown629b99d1f3a2
+
+Last Activity
+Sat Apr  2 10:49:18 2022
+
+Status
+on
+
+Allocation
+dhcp
+
+Connection Type
+Wi-Fi   5 GHzType: HomeName: BadConnection
+
+Mesh Client
+No
+
+IPv6 Address
+2600:1700:ab00:5810::3b
+
+Type
+slaac
+
+Valid Lifetime
+3600s
+
+Preferred Lifetime
+3600s
+
+
+MAC Address
+6e:b5:c3:64:d6:ea
+
+IPv4 Address / Name
+192.168.1.175
+ / unknown6eb5c364d6ea
+
+Last Activity
+Sat Apr  2 08:31:14 2022
+
+Status
+off
+
+Allocation
+dhcp
+
+Connection Type
+Wi-Fi5 GHzType: HomeName: BadConnection
+
+Mesh Client
+No
+
+
+MAC Address
+78:dd:12:f2:79:50
+
+IPv4 Address / Name
+192.168.1.213
+ / unknown78dd12f27950
+
+Last Activity
+Sat Apr  2 03:49:18 2022
+
+Status
+on
+
+Allocation
+static
+
+Connection Type
+Wi-Fi   5 GHzType: HomeName: BadConnection
+
+Mesh Client
+No
+
+
+MAC Address
+92:00:2f:f8:44:b6
+
+IPv4 Address / Name
+192.168.1.169
+ / unknown92002ff844b6
+
+Last Activity
+Sat Apr  2 07:45:10 2022
+
+Status
+off
+
+Allocation
+dhcp
+
+Connection Type
+Wi-Fi2.4 GHzType: HomeName: BadConnection
+
+Mesh Client
+No
+
+
+MAC Address
+96:c2:24:fb:2e:b4
+
+IPv4 Address / Name
+192.168.1.179
+ / unknown96c224fb2eb4
+
+Last Activity
+Sat Apr  2 10:49:56 2022
+
+Status
+on
+
+Allocation
+dhcp
+
+Connection Type
+Wi-Fi   5 GHzType: HomeName: BadConnection
+
+Mesh Client
+No
+
+IPv6 Address
+2600:1700:ab00:5810:a89d:6b57:d5cf:7c4e
+
+Type
+slaac
+
+Valid Lifetime
+3600s
+
+Preferred Lifetime
+3600s
+
+IPv6 Address
+2600:1700:ab00:5810::29
+
+Type
+dhcp
+
+Valid Lifetime
+3600s
+
+Preferred Lifetime
+3600s
+
+IPv6 Address
+fe80::14a0:b60d:85b8:ae07
+
+Type
+slaac
+
+Valid Lifetime
+forever
+
+Preferred Lifetime
+forever
+
+
+MAC Address
+9c:b6:d0:f3:74:f3
+
+IPv4 Address / Name
+192.168.1.127
+ / devserver
+
+Last Activity
+Sat Apr  2 10:49:42 2022
+
+Status
+on
+
+Allocation
+dhcp
+
+Connection Type
+Wi-Fi   5 GHzType: HomeName: BadConnection
+
+Mesh Client
+No
+
+IPv6 Address
+2600:1700:ab00:5810:241d:7a5e:2cd:d378
+
+Type
+slaac
+
+Valid Lifetime
+3600s
+
+Preferred Lifetime
+3600s
+
+IPv6 Address
+2600:1700:ab00:5810::22
+
+Type
+dhcp
+
+Valid Lifetime
+3600s
+
+Preferred Lifetime
+3600s
+
+IPv6 Address
+2600:1700:ab00:5810:4102:532d:ea10:da9c
+
+Type
+slaac
+
+Valid Lifetime
+3600s
+
+Preferred Lifetime
+3600s
+
+IPv6 Address
+2600:1700:ab00:5810:ee49:1084:8a57:cb15
+
+Type
+slaac
+
+Valid Lifetime
+3600s
+
+Preferred Lifetime
+3600s
+
+
+MAC Address
+c4:95:00:0b:d3:5d
+
+IPv4 Address / Name
+192.168.1.104
+ / amazon-c7ca48c11
+
+Last Activity
+Sat Apr  2 10:35:20 2022
+
+Status
+off
+
+Allocation
+dhcp
+
+Connection Type
+Wi-Fi2.4 GHzType: HomeName: BadConnection
+
+Mesh Client
+No
+
+
+MAC Address
+dc:41:a9:a9:a2:e5
+
+IPv4 Address / Name
+192.168.1.191
+ / devloper
+
+Last Activity
+Sat Apr  2 10:49:15 2022
+
+Status
+on
+
+Allocation
+dhcp
+
+Connection Type
+Wi-Fi   5 GHzType: HomeName: BadConnection
+
+Mesh Client
+No
+
+IPv6 Address
+2600:1700:ab00:5810:9cf9:5e31:4414:56cc
+
+Type
+slaac
+
+Valid Lifetime
+3600s
+
+Preferred Lifetime
+3600s
+
+IPv6 Address
+fe80::d95d:e428:aef8:3ffc
+
+Type
+slaac
+
+Valid Lifetime
+forever
+
+Preferred Lifetime
+forever
+
+
+MAC Address
+ec:c4:0d:72:bd:bf
+
+IPv4 Address / Name
+192.168.1.73
+ / unknownecc40d72bdbf
+
+Last Activity
+Sat Apr  2 10:49:16 2022
+
+Status
+on
+
+Allocation
+dhcp
+
+Connection Type
+Wi-Fi   2.4 GHzType: HomeName: BadConnection
+
+Mesh Client
+No
+
+
+
+
+
+
+
+
+
+
+Help
+The device list page shows all items of the LAN Host Discovery table. Use the "Clear and Rescan for Devices" button to reset the devices table and do a fresh search for connected LAN devices.
+
+Allocation types include static and dhcp. When the allocation type of a device has not yet been determined, it is marked pending.
+Devices that are powered off will continue to appear in the table, but be shown as "off" for a period of more than a day.
+The Last Activity display will be blank if the WAN is down or the device cannot reach a time server.
+ 
+ 
+
+
+
+
+
+
+
+© 2016-2022 AT&T Intellectual Property. All rights reserved. AT&T and Globe logo are registered trademarks of AT&T Intellectual Property.
+Site Map
+© 2016 ARRIS Enterprises LLC. All rights reserved. ARRIS is a registered trademark of ARRIS Enterprises LLC.
+
+
+
+
+
+
+
+Device List
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Skip to Main Content
+
+
+Device
+Broadband
+
+Home Network
+
+Voice
+Firewall
+Diagnostics
+
+
+
+
+
+Status
+Device List
+System Information
+Access Code
+Remote Access
+Restart Device
+
+
+
+
+
+
+
+
+Device List
+
+
+
+
+Home Network Devices  
+
+
+MAC Address
+00:1c:c2:52:09:9e
+
+IPv4 Address / Name
+192.168.1.159
+ / DNC-WHITE374
+
+Last Activity
+Sat Apr  2 10:41:31 2022
+
+Status
+off
+
+Allocation
+dhcp
+
+Connection Type
+Ethernet LAN-1
+
+Mesh Client
+No
+
+
+MAC Address
+38:f9:d3:c8:bb:fb
+
+IPv4 Address / Name
+192.168.1.160
+ / DNC-WHITE374
+
+Last Activity
+Sat Apr  2 10:49:14 2022
+
+Status
+on
+
+Allocation
+dhcp
+
+Connection Type
+Wi-Fi   5 GHzType: HomeName: BadConnection
+
+Mesh Client
+No
+
+IPv6 Address
+2600:1700:ab00:5810:1c82:6df1:218d:c650
+
+Type
+slaac
+
+Valid Lifetime
+3600s
+
+Preferred Lifetime
+3600s
+
+
+MAC Address
+48:a6:b8:f7:8d:7c
+
+IPv4 Address / Name
+192.168.1.178
+ / SonosZP
+
+Last Activity
+Sat Apr  2 10:49:19 2022
+
+Status
+on
+
+Allocation
+dhcp
+
+Connection Type
+Wi-Fi   2.4 GHzType: HomeName: BadConnection
+
+Mesh Client
+No
+
+IPv6 Address
+2600:1700:ab00:5810:4aa6:b8ff:fef7:8d7c
+
+Type
+slaac
+
+Valid Lifetime
+3600s
+
+Preferred Lifetime
+3600s
+
+IPv6 Address
+fe80::4aa6:b8ff:fef7:8d7c
+
+Type
+slaac
+
+Valid Lifetime
+forever
+
+Preferred Lifetime
+forever
+
+
+MAC Address
+48:a6:b8:f7:8d:a0
+
+IPv4 Address / Name
+192.168.1.228
+ / SonosZP
+
+Last Activity
+Sat Apr  2 10:49:19 2022
+
+Status
+on
+
+Allocation
+dhcp
+
+Connection Type
+Wi-Fi   5 GHzType: HomeName: BadConnection
+
+Mesh Client
+No
+
+IPv6 Address
+2600:1700:ab00:5810:4aa6:b8ff:fef7:8da0
+
+Type
+slaac
+
+Valid Lifetime
+3600s
+
+Preferred Lifetime
+3600s
+
+IPv6 Address
+fe80::4aa6:b8ff:fef7:8da0
+
+Type
+slaac
+
+Valid Lifetime
+forever
+
+Preferred Lifetime
+forever
+
+
+MAC Address
+50:ed:3c:f1:4a:f2
+
+IPv4 Address / Name
+192.168.1.138
+ / Deborahs-iMac
+
+Last Activity
+Sat Apr  2 10:49:14 2022
+
+Status
+on
+
+Allocation
+dhcp
+
+Connection Type
+Wi-Fi   5 GHzType: HomeName: BadConnection
+
+Mesh Client
+No
+
+IPv6 Address
+2600:1700:ab00:5810::2d
+
+Type
+dhcp
+
+Valid Lifetime
+3600s
+
+Preferred Lifetime
+3600s
+
+
+MAC Address
+54:2a:1b:8a:87:0b
+
+IPv4 Address / Name
+192.168.1.170
+ / SonosZP
+
+Last Activity
+Sat Apr  2 10:49:19 2022
+
+Status
+on
+
+Allocation
+dhcp
+
+Connection Type
+Wi-Fi   2.4 GHzType: HomeName: BadConnection
+
+Mesh Client
+No
+
+IPv6 Address
+2600:1700:ab00:5810:562a:1bff:fe8a:870b
+
+Type
+slaac
+
+Valid Lifetime
+3600s
+
+Preferred Lifetime
+3600s
+
+IPv6 Address
+fe80::562a:1bff:fe8a:870b
+
+Type
+slaac
+
+Valid Lifetime
+forever
+
+Preferred Lifetime
+forever
+
+
+MAC Address
+5c:ea:1d:5f:ab:bd
+
+IPv4 Address / Name
+192.168.1.177
+ / aheisleycook-Inspiron-5570
+
+Last Activity
+Sat Apr  2 09:03:19 2022
+
+Status
+off
+
+Allocation
+dhcp
+
+Connection Type
+Ethernet LAN-6
+
+Mesh Client
+No
+
+
+MAC Address
+62:9b:99:d1:f3:a2
+
+IPv4 Address / Name
+192.168.1.95
+ / unknown629b99d1f3a2
+
+Last Activity
+Sat Apr  2 10:49:18 2022
+
+Status
+on
+
+Allocation
+dhcp
+
+Connection Type
+Wi-Fi   5 GHzType: HomeName: BadConnection
+
+Mesh Client
+No
+
+IPv6 Address
+2600:1700:ab00:5810::3b
+
+Type
+slaac
+
+Valid Lifetime
+3600s
+
+Preferred Lifetime
+3600s
+
+
+MAC Address
+6e:b5:c3:64:d6:ea
+
+IPv4 Address / Name
+192.168.1.175
+ / unknown6eb5c364d6ea
+
+Last Activity
+Sat Apr  2 08:31:14 2022
+
+Status
+off
+
+Allocation
+dhcp
+
+Connection Type
+Wi-Fi5 GHzType: HomeName: BadConnection
+
+Mesh Client
+No
+
+
+MAC Address
+78:dd:12:f2:79:50
+
+IPv4 Address / Name
+192.168.1.213
+ / unknown78dd12f27950
+
+Last Activity
+Sat Apr  2 03:49:18 2022
+
+Status
+on
+
+Allocation
+static
+
+Connection Type
+Wi-Fi   5 GHzType: HomeName: BadConnection
+
+Mesh Client
+No
+
+
+MAC Address
+92:00:2f:f8:44:b6
+
+IPv4 Address / Name
+192.168.1.169
+ / unknown92002ff844b6
+
+Last Activity
+Sat Apr  2 07:45:10 2022
+
+Status
+off
+
+Allocation
+dhcp
+
+Connection Type
+Wi-Fi2.4 GHzType: HomeName: BadConnection
+
+Mesh Client
+No
+
+
+MAC Address
+96:c2:24:fb:2e:b4
+
+IPv4 Address / Name
+192.168.1.179
+ / unknown96c224fb2eb4
+
+Last Activity
+Sat Apr  2 10:49:56 2022
+
+Status
+on
+
+Allocation
+dhcp
+
+Connection Type
+Wi-Fi   5 GHzType: HomeName: BadConnection
+
+Mesh Client
+No
+
+IPv6 Address
+2600:1700:ab00:5810:a89d:6b57:d5cf:7c4e
+
+Type
+slaac
+
+Valid Lifetime
+3600s
+
+Preferred Lifetime
+3600s
+
+IPv6 Address
+2600:1700:ab00:5810::29
+
+Type
+dhcp
+
+Valid Lifetime
+3600s
+
+Preferred Lifetime
+3600s
+
+IPv6 Address
+fe80::14a0:b60d:85b8:ae07
+
+Type
+slaac
+
+Valid Lifetime
+forever
+
+Preferred Lifetime
+forever
+
+
+MAC Address
+9c:b6:d0:f3:74:f3
+
+IPv4 Address / Name
+192.168.1.127
+ / devserver
+
+Last Activity
+Sat Apr  2 10:50:37 2022
+
+Status
+on
+
+Allocation
+dhcp
+
+Connection Type
+Wi-Fi   5 GHzType: HomeName: BadConnection
+
+Mesh Client
+No
+
+IPv6 Address
+2600:1700:ab00:5810:241d:7a5e:2cd:d378
+
+Type
+slaac
+
+Valid Lifetime
+3600s
+
+Preferred Lifetime
+3600s
+
+IPv6 Address
+2600:1700:ab00:5810::22
+
+Type
+dhcp
+
+Valid Lifetime
+3600s
+
+Preferred Lifetime
+3600s
+
+IPv6 Address
+2600:1700:ab00:5810:4102:532d:ea10:da9c
+
+Type
+slaac
+
+Valid Lifetime
+3600s
+
+Preferred Lifetime
+3600s
+
+IPv6 Address
+2600:1700:ab00:5810:ee49:1084:8a57:cb15
+
+Type
+slaac
+
+Valid Lifetime
+3600s
+
+Preferred Lifetime
+3600s
+
+
+MAC Address
+c4:95:00:0b:d3:5d
+
+IPv4 Address / Name
+192.168.1.104
+ / amazon-c7ca48c11
+
+Last Activity
+Sat Apr  2 10:35:20 2022
+
+Status
+off
+
+Allocation
+dhcp
+
+Connection Type
+Wi-Fi2.4 GHzType: HomeName: BadConnection
+
+Mesh Client
+No
+
+
+MAC Address
+dc:41:a9:a9:a2:e5
+
+IPv4 Address / Name
+192.168.1.191
+ / devloper
+
+Last Activity
+Sat Apr  2 10:49:15 2022
+
+Status
+on
+
+Allocation
+dhcp
+
+Connection Type
+Wi-Fi   5 GHzType: HomeName: BadConnection
+
+Mesh Client
+No
+
+IPv6 Address
+2600:1700:ab00:5810:9cf9:5e31:4414:56cc
+
+Type
+slaac
+
+Valid Lifetime
+3600s
+
+Preferred Lifetime
+3600s
+
+IPv6 Address
+fe80::d95d:e428:aef8:3ffc
+
+Type
+slaac
+
+Valid Lifetime
+forever
+
+Preferred Lifetime
+forever
+
+
+MAC Address
+ec:c4:0d:72:bd:bf
+
+IPv4 Address / Name
+192.168.1.73
+ / unknownecc40d72bdbf
+
+Last Activity
+Sat Apr  2 10:49:16 2022
+
+Status
+on
+
+Allocation
+dhcp
+
+Connection Type
+Wi-Fi   2.4 GHzType: HomeName: BadConnection
+
+Mesh Client
+No
+
+
+
+
+
+
+
+
+
+
+Help
+The device list page shows all items of the LAN Host Discovery table. Use the "Clear and Rescan for Devices" button to reset the devices table and do a fresh search for connected LAN devices.
+
+Allocation types include static and dhcp. When the allocation type of a device has not yet been determined, it is marked pending.
+Devices that are powered off will continue to appear in the table, but be shown as "off" for a period of more than a day.
+The Last Activity display will be blank if the WAN is down or the device cannot reach a time server.
+ 
+ 
+
+
+
+
+
+
+
+© 2016-2022 AT&T Intellectual Property. All rights reserved. AT&T and Globe logo are registered trademarks of AT&T Intellectual Property.
+Site Map
+© 2016 ARRIS Enterprises LLC. All rights reserved. ARRIS is a registered trademark of ARRIS Enterprises LLC.
+
+
+
+
