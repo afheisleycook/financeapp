@@ -2,7 +2,6 @@ import pydoc
 
 import tkinter
 import  sqlite3
-from  transaction import User
 from  tkinter import messagebox
 import sqlalchemy
 MAX_SIZE = "400","400"
@@ -18,6 +17,7 @@ class Mainwindow(tkinter.Tk):
 
         super().__init__()
         self.resizable(False,False)
+        self.configure(background="")
         self.apptitle = tkinter.Label(self,text="MY finance")
         self.apptitle.grid(row=0,column=3,columnspan=1,sticky=tkinter.N)
         self.luser = tkinter.Label(self,text="username")
