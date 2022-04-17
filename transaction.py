@@ -19,7 +19,7 @@ class Mainwindow(tkinter.Tk):
         self.resizable(False,False)
         self.configure(background="grey")
         self.apptitle = tkinter.Label(self,text="MY finance")
-        self.apptitle.grid(row=0,column=3,columnspan=1,sticky=tkinter.N)
+        self.apptitle.grid(row=0,column=2,columnspan=1,sticky=tkinter.N)
         self.luser = tkinter.Label(self,text="username",relief="raised")
         self.luser.grid(row=1,column=1)
         self.txtuser = tkinter.Entry(self)
@@ -62,24 +62,30 @@ class CurrentInfo(tkinter.Tk):
         super(CurrentInfo, self).__init__()
         self.title("current info")
         self.geometry("800x400")
-        self.resizable(False,False)
         self.amount = tkinter.StringVar()
         self.total = CONFIG_DB.cursor().execute("select PURCHASE_AMOUNT from PURCHASE ")
         self.total = self.total.fetchall()
         self.lblusername = tkinter.Label(self, text=f"user:{User['username']}")
         self.lblusername.grid(row=1,column=3)
         self.txtamount = tkinter.Entry(self)
+        self.txtamount.grid(row=2, column=3)
+        self.txtplace = tkinter.Entry(self)
+        self.txtplace.grid(row=3,column=3)
         self.currenttotal = 0.00
-        self.txtamount.grid(row=2,column=3)
+
         for purchase in self.total:
-            self.currenttotal += purchase
+            self.currenttotal += purchase[0]
         self.currentamount = tkinter.Label(self,text=self.currenttotal)
         self.currentamount.grid(row=2,column=4,sticky=tkinter.W)
         self.currentamount.configure(background="white")
         self.currentamount.configure(foreground="black")
         self.currentamount.configure(relief="ridge")
-        self.btnwidthdraw = tkinter.Button(self)
-        self.u
+        self.btnadd = tkinter.Button(self,text="add purchase",command=self.addpurcase)
+        self.btnadd.grid(row=3,column=5)
+    def addpurcase(self):
+        CONFIG_DB.execute(f"insert into PURCHASE values('0','{self.txtamount}','{self.txtplace}'")
+        CONFIG_DB.commit()
+
 
     def show(self):
         self.mainloop()
