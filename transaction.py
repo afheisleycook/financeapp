@@ -61,16 +61,25 @@ class CurrentInfo(tkinter.Tk):
     def __init__(self):
         super(CurrentInfo, self).__init__()
         self.title("current info")
-        self.geometry("100x400")
+        self.geometry("800x400")
         self.resizable(False,False)
         self.amount = tkinter.StringVar()
         self.total = CONFIG_DB.cursor().execute("select PURCHASE_AMOUNT from PURCHASE ")
+        self.total = self.total.fetchall()
         self.lblusername = tkinter.Label(self, text=f"user:{User['username']}")
         self.lblusername.grid(row=1,column=3)
         self.txtamount = tkinter.Entry(self)
+        self.currenttotal = 0.00
         self.txtamount.grid(row=2,column=3)
-        self.currentamount = tkinter.Label(self,text=sum(self.total.fetchall()))
-        self.currentamount.grid(row=2,column=4)
+        for purchase in self.total:
+            self.currenttotal += purchase
+        self.currentamount = tkinter.Label(self,text=self.currenttotal)
+        self.currentamount.grid(row=2,column=4,sticky=tkinter.W)
+        self.currentamount.configure(background="white")
+        self.currentamount.configure(foreground="black")
+        self.currentamount.configure(relief="ridge")
+        self.btnwidthdraw = tkinter.Button(self)
+        self.u
 
     def show(self):
         self.mainloop()
